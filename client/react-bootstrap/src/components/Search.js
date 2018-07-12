@@ -10,8 +10,9 @@ export default class About extends Component {
 
             <div>
 
+            <div className="container">
             <h1>Search Records</h1>
-
+            </div>
             <Grid>
             <Col  xs={12} sm={8} smOffest={2}>
             <Button bsStyle="primary">Record List</Button>
